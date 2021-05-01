@@ -1,4 +1,4 @@
-## Slack Clone using ReactJS Redux powered by Firebase 
+# Slack Clone using ReactJS Redux powered by Firebase 
 
 ### Website : https://slack-clone-paipratik.firebaseapp.com/
 
