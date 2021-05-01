@@ -10,7 +10,7 @@
   1. A ReactJs and Redux based clone of the popular business communication platform Slack
   2. The website uses Firebase backend for dynamic chat feature and also capable of adding new  Slack chat channels
   3. Firebase is also used for Google Signin authentication
-  4. The Website used Fiebase Hooks (for React) to connect the firebase and the React Application
+  4. The Website used Fiebase Hooks (for React) to connect the firebase and the React Application for the purpose of fetching and pushing chats and google authentication
   5. Used Styled Components to create the JSX Components throughout the website
   6. Used Material UI for UI Components and also Icons.
 
