@@ -2,6 +2,8 @@
 
 ### Website : https://slack-clone-paipratik.firebaseapp.com/
 
+## Key Technologies : ReactJS, Redux, Firebase, Styled Components, Firebase Hooks, Google Authentication, Material UI
+
 ## About:
 
   1. A ReactJs and Redux based clone of the popular business communication platform Slack
