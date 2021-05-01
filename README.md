@@ -3,7 +3,7 @@
 ### Website : https://slack-clone-paipratik.firebaseapp.com/
 
 ## Key Technologies : 
-`ReactJS`, `Redux`, `Firebase`, `Styled Components`, `Firebase Hooks`, `Google Authentication`, `Material UI`
+`ReactJS` `Redux` `Firebase` `Styled Components` `Firebase Hooks` `Google Authentication` `Material UI`
 
 ## About:
 
