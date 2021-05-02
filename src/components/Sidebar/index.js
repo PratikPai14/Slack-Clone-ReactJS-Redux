@@ -44,7 +44,7 @@ function Sidebar() {
         <CreateIcon />
       </SidebarHeader>{" "}
       <a
-        href="https://www.linkedin.com/in/pratikmaheshpai/"
+        href="https://github.com/PratikPai14/Slack-Clone-ReactJS-Redux"
         target="_blank"
         rel="noreferrer"
         style={{ textDecoration: "none", color: "inherit" }}
